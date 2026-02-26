@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(205, 156, 104);
+color: rgb(103, 47, 167);
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;text-align: center;
+    color: blueviolet;
+    text-shadow:2px 4px black;
+}
+h2{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+color: brown;
+text-shadow: 4px 6px yellow;}
+img{
+    max-width: 50;
+    border:10px solid red;
+    padding: 7px;
+    background-color: antiquewhite;
+}
+a{
+    color: rgb(51, 58, 181);
+    text-decoration: none;
+}
+
+a:hover{
+    color: blue;
+    text-decoration: underline;
+}
